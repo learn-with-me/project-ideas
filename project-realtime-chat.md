@@ -1,0 +1,25 @@
+# Real-time Chat
+
+Application enabling multiple users to chat from different locations by sharing the chatroom key/inviting someone.
+
+```
+Scope: Limited to personal use for Demo purposes
+Target Audience: Recruiters, Personal group
+
+Technology Stack
+Node.js is really good at building real-time communication applications
+
+Iterations
+==========
+Iteration 1:
+MVP - Share the link and see chat working in same local machine
+```
+
+##### References
+
+```
+https://serverjs.io/tutorials/chat/
+```
+
+
+

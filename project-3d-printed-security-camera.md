@@ -33,5 +33,11 @@ http://www.instructables.com/id/Pigeon-a-3D-Printed-Cloud-Home-Surveillance-Came
 https://www.myminifactory.com/object/pigeon-an-open-source-raspberry-pi-zero-w-cloud-camera-32164
 ```
 
+#### Other similar ideas
+
+```
+https://www.freelearner.how/2017/12/16/solar-powered-raspberry-pi-based-wireless-security-camera-system/
+```
+
 
 

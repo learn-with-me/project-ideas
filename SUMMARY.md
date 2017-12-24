@@ -18,5 +18,5 @@
 * [World Corruption](world-corruption.md)
 * [API JS](api-js.md)
 * [Blogging](blogging.md)
-* [Project Generator](project-generator.md)
+* [Authentication](authentication.md)
 

@@ -7,6 +7,7 @@
   * [Problem Statements](problem-statements.md)
   * [TODO](todo.md)
 * [Online Profile](online-profile.md)
+* [Project Generator](project-generator.md)
 * [React Components](react-components.md)
 * [Real-time chat](realtime-chat.md)
 * [3D printed security camera](3d-printed-security-camera.md)
@@ -17,5 +18,5 @@
 * [World Corruption](world-corruption.md)
 * [API JS](api-js.md)
 * [Blogging](blogging.md)
-* [Authentication](authentication.md)
+* [Project Generator](project-generator.md)
 

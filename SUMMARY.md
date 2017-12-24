@@ -1,6 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+  * [Potential Help](potential-help.md)
+    * [Shipping](potential-help/shipping.md)
+    * [Payment](potential-help/payment.md)
+  * [Problem Statements](problem-statements.md)
 * [Project - Online Profile](project-online-profile.md)
 * [Project - React Components](project-react-components.md)
 * [Project - Real-time chat](project-realtime-chat.md)

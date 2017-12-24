@@ -13,7 +13,7 @@ Name
 Description/Purpose
 Scope
 Target Audience
-Stacks involved
+Technologies involved
 Iterations - starting from MVP
 Design Screenshots - set standards and minimum criteria
 
@@ -99,6 +99,12 @@ https://www.ryrob.com/how-to-start-grow-your-business-while-working-a-full-time-
 
 ```
 http://www.hackathon.io/events?location=New+York
+```
+
+##### Blogged Projects/Utils
+
+```
+https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0
 ```
 
 

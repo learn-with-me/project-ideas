@@ -19,4 +19,5 @@
 * [API JS](api-js.md)
 * [Blogging](blogging.md)
 * [Authentication](authentication.md)
+* [Resources](resources.md)
 

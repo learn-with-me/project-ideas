@@ -66,6 +66,7 @@ https://github.com/progit/progit2
 
 ```
 http://sourabhbajaj.com/mac-setup/
+    https://github.com/sb2nov/mac-setup
 ```
 
 

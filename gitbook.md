@@ -1,6 +1,15 @@
 # Editor like GitBook
 
-##### Tools to look at
+##### Work in progress...
+
+```
+https://github.com/goel4ever/setup-mac
+https://github.com/goel4ever/book-training-bible
+https://github.com/goel4ever/book-project-bible
+https://github.com/goel4ever/book-development-technologies
+```
+
+##### Tools that may help
 
 ```
 https://dillinger.io/
@@ -51,6 +60,12 @@ https://github.com/dadadel/ebooks
 
 ```
 https://github.com/progit/progit2
+```
+
+##### Existing books
+
+```
+http://sourabhbajaj.com/mac-setup/
 ```
 
 

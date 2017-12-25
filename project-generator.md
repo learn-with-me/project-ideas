@@ -9,12 +9,11 @@ To create your own, you should be familiar with:
 * NPM
 * Basic Linux command line
 
-
-
 ##### Inspiration
 
 ```
 https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
+
 ```
 
 

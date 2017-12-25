@@ -28,14 +28,6 @@ Live Reload
 Deployment plan and resources
 ```
 
-##### Node Projects
-
-```
-https://chat.meatspac.es/
-    https://github.com/meatspaces/meatspace-chat-v2
-https://talky.io/
-```
-
 ##### Electron Projects
 
 ```
@@ -101,10 +93,10 @@ https://www.ryrob.com/how-to-start-grow-your-business-while-working-a-full-time-
 http://www.hackathon.io/events?location=New+York
 ```
 
-##### Blogged Projects/Utils
+##### Presentation library
 
 ```
-https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0
+https://github.com/FormidableLabs/spectacle
 ```
 
 

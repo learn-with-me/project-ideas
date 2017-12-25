@@ -13,7 +13,6 @@ TBD
 ```
 Step 1
 Static HTML parallax page
-
 ```
 
 Sections
@@ -84,6 +83,7 @@ http://www.design-talks.com/
 http://www.laudsome.com/
 http://anshulg.com/
 http://www.mansigupta.com/#/push-project/
+http://sourabhbajaj.com/
 ```
 
 

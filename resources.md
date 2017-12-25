@@ -16,8 +16,17 @@ https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angula
 
 https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
 
+Spreadsheet
+https://serverjs.io/tutorials/spreadsheet/
+
 Command line
 https://tutorialzine.com/2014/09/creating-your-first-node-js-command-line-application
+
+Weather
+https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
+
+Ideas
+https://github.com/sqreen/awesome-nodejs-projects
 ```
 
 ##### PostgreSQL
@@ -30,6 +39,7 @@ https://codeforgeek.com/2017/01/getting-started-sequelize-postgresql/
 
 ```
 https://learn.exponential.io/p/introduction-to-rest-api-development-in-python
+https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0
 ```
 
 

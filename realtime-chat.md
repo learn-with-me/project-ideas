@@ -13,6 +13,16 @@ Iterations
 ==========
 Iteration 1:
 MVP - Share the link and see chat working in same local machine
+    Refer: https://serverjs.io/tutorials/chat/
+
+Iteration 2:
+Add video capabilities.
+    Refer: https://github.com/meatspaces/meatspace-chat-v2
+
+Iteration 3:
+Add chatroom capabilities
+    Refer: https://talky.io/
+
 ```
 
 ##### References

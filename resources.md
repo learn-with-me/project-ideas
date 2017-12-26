@@ -16,6 +16,9 @@ https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angula
 
 https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
 
+Scraping
+https://medium.freecodecamp.org/how-i-scraped-7000-articles-from-a-newspaper-website-using-node-1309133a5070
+
 Spreadsheet
 https://serverjs.io/tutorials/spreadsheet/
 
@@ -24,6 +27,10 @@ https://tutorialzine.com/2014/09/creating-your-first-node-js-command-line-applic
 
 Weather
 https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
+
+Work Related
+http://funretro.github.io/distributed/#a12b8500-9b5c-47e9-b612-2de11b83ae85
+    https://github.com/funretro/distributed
 
 Ideas
 https://github.com/sqreen/awesome-nodejs-projects
@@ -48,6 +55,35 @@ https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-
 http://jster.net/catalog                      // Quick filter on technologies
 https://github.com/desktop/desktop            // GitHub Collaboration
 Text Editor
+```
+
+##### Text Editor
+
+```
+Markdown Editor
+https://scotch.io/tutorials/building-a-real-time-markdown-viewer
+
+https://github.com/codemirror/codemirror
+https://viewsourcecode.org/snaptoken/kilo/index.html
+```
+
+##### Code Editor
+
+```
+https://www.npmjs.com/package/noide
+http://qnimate.com/create-an-frontend-editor-with-code-highlighting-and-execution/
+```
+
+##### Web Browser
+
+```
+https://www.udacity.com/course/programming-languages--cs262
+
+https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+https://cheesecakelabs.com/blog/how-to-build-a-browser-pt-1/
+
+http://taligarsiel.com/Projects/howbrowserswork1.htm
+https://webkit.org/
 ```
 
 

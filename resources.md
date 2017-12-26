@@ -42,5 +42,13 @@ https://learn.exponential.io/p/introduction-to-rest-api-development-in-python
 https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0
 ```
 
+##### UI Project
+
+```
+http://jster.net/catalog                      // Quick filter on technologies
+https://github.com/desktop/desktop            // GitHub Collaboration
+Text Editor
+```
+
 
 

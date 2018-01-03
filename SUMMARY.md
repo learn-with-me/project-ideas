@@ -19,5 +19,6 @@
 * [API JS](api-js.md)
 * [Blogging](blogging.md)
 * [Authentication](authentication.md)
+* [Raspberry Pi](raspberry-pi.md)
 * [Resources](resources.md)
 

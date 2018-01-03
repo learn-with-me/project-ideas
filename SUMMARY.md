@@ -10,6 +10,7 @@
 * [Project Generator](project-generator.md)
 * [React Components](react-components.md)
 * [Real-time chat](realtime-chat.md)
+* [Raspberry Pi](raspberry-pi.md)
 * [3D printed security camera](3d-printed-security-camera.md)
 * [3D printing ideas](3d-printing-ideas.md)
 * [GitBook](gitbook.md)
@@ -18,7 +19,5 @@
 * [World Corruption](world-corruption.md)
 * [API JS](api-js.md)
 * [Blogging](blogging.md)
-* [Authentication](authentication.md)
-* [Raspberry Pi](raspberry-pi.md)
 * [Resources](resources.md)
 

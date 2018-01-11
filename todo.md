@@ -13,5 +13,15 @@
 * Teach classes online and in-person
 * Have a weekly YouTube channel running
 
+##### Node-Vue.js project
+
+```
+https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-i-f3d7311822a8
+https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-ii-f08c410c944d
+https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-iii-540a77a7ddee
+https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-iv-e87cac68e04b
+https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-v-ae7ddb7d8426
+```
+
 
 

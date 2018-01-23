@@ -98,6 +98,3 @@ http://www.hackathon.io/events?location=New+York
 ```
 https://github.com/FormidableLabs/spectacle
 ```
-
-
-

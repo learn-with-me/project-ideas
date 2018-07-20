@@ -25,4 +25,5 @@
 * [Real-time chat](realtime-chat.md)
 * [API JS](api-js.md)
 * [Resources](resources.md)
+* [Finance](finance.md)
 

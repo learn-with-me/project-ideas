@@ -5,6 +5,7 @@ Hardware related projects. Mostly Raspberry Pi or Arduino
 #### No processor projects
 
 * Electric car
+* Light dimmer
 
 #### Circuit \(no processor\) projects
 

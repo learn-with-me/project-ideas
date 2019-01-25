@@ -15,6 +15,9 @@ Hardware related projects. Mostly Raspberry Pi or Arduino
 
 * Remote control car [https://www.youtube.com/watch?v=f8yaZLZ7I-c](https://www.youtube.com/watch?v=f8yaZLZ7I-c)
 * Chicken Guard
-* 
+* Advanced Router control
+* Home Automation
+* s
+
 
 

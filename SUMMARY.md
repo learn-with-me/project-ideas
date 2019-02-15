@@ -26,4 +26,5 @@
 * [API JS](api-js.md)
 * [Resources](resources.md)
 * [Finance](finance.md)
+* [Business Ideas](business-ideas.md)
 

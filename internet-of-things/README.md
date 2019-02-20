@@ -39,7 +39,11 @@ Hardware related projects. Mostly Raspberry Pi or Arduino
 * GSM Signal Jammer
 * Radio Talking device with large range
 
+##### Project - Guest WiFi
 
+```
+https://socialwifi.com/
+```
 
 
 

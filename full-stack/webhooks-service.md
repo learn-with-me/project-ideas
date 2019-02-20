@@ -20,6 +20,8 @@ https://www.netlify.com/docs/webhooks/
 #### References - Blogs/Code
 
 ```
+https://derickbailey.com/2016/03/14/properly-handling-webhooks-with-node-and-express/
+
 https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
     https://bitbucket.org/atlassianlabs/webhook-listener
 ```

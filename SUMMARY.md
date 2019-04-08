@@ -24,6 +24,7 @@
   * [3D printed security camera](internet-of-things/3d-printed-security-camera.md)
   * [3D printing ideas](internet-of-things/3d-printing-ideas.md)
   * [Arduino](internet-of-things/arduino.md)
+  * [Home Network Control](internet-of-things/home-network-control.md)
 * [Real-time chat](realtime-chat.md)
 * [API JS](api-js.md)
 * [Resources](resources.md)

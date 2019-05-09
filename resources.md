@@ -1,5 +1,18 @@
 # Resources
 
+##### HTML Templates
+
+```
+https://colorlib.com/wp/templates/
+https://www.free-css.com/free-css-templates
+
+https://html5up.net/
+https://mobirise.com/html-templates/
+
+https://templated.co/
+
+```
+
 ##### NodeJS
 
 ```

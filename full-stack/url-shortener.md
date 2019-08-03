@@ -20,10 +20,10 @@
 * Something to do with custom domain names for brand awareness
   * Brand.Link/Keyword
   * Checkout
-    * https://clkim.com/
-    * https://www.rebrandly.com/
-    * https://branch.io/
-    * http://yourls.org/
+    * [https://clkim.com/](https://clkim.com/)
+    * [https://www.rebrandly.com/](https://www.rebrandly.com/)
+    * [https://branch.io/](https://branch.io/)
+    * [http://yourls.org/](http://yourls.org/)
 * Link management tool
   * Team/Department management
 

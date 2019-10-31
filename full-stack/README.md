@@ -10,6 +10,7 @@ Projects involving atleast two components of front-end, backend, and/or database
 Deploys app on demand
 Returns notification
 Runs checks if you still have access to the project
+Returns current status of the project deployment, when you open the app
 ```
 
 

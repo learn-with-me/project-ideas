@@ -41,11 +41,13 @@ Notifications
 OTP/2-factor auth
 Email reports
 Charts
+Insurance calculator - Android app (Motor Insurance Calculator Free)
 ```
 
 ##### Non-Functional
 
 ```
+HTTPS
 Usage analytics
 API security
 Infrastructure cost
@@ -64,7 +66,6 @@ External accessory cost
 
 Insurance providers in India
 RTO by City/State
-
 ```
 
 ##### Sources

@@ -20,6 +20,7 @@
   * [Url Shortener](full-stack/url-shortener.md)
   * [WebHooks Service](full-stack/webhooks-service.md)
   * [Personal Finance Manager](full-stack/personal-finance-manager.md)
+  * [Insurance - Pranav](full-stack/insurance-pranav.md)
 * [Internet Of Things](internet-of-things/README.md)
   * [Raspberry Pi](internet-of-things/raspberry-pi.md)
   * [3D printed security camera](internet-of-things/3d-printed-security-camera.md)
